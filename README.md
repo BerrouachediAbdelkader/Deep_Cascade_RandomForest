@@ -1,4 +1,4 @@
-# DeepRandomForest-Approche2
+# DeepRandomForest-approach 2
 
 DeepRandomForest Is Here!
 ========
